@@ -16,4 +16,11 @@ pypdf
 groq
 tiktoken
 requests
+unstructured-inference
+pytesseract
+pdfminer.six
+pillow
+poppler-utils
+
+
 
